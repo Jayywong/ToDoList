@@ -6,6 +6,6 @@ This simple app is implemented in Swift 3. The following toDolist app was presen
 
 ##Demo:
 
-###Below is a demonstration of how to app is functioning
+###Below is a demonstration of how to app works
 
 ![](toDoList.gif) 
